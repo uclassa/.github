@@ -1,0 +1,2 @@
+## Developers of SSA @ UCLA
+Hi there! Welcome to the SSA github! For information on the 😋 **TASTY** things we're cooking up, pay a visit to our [notion page](https://www.notion.so/SSA-SWE-b1b5607878fa429ba967ea707d0ca5b4?pvs=4).
